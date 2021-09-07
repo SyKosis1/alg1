@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T21:13:47.953Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="PZDYFGkuCzQOH8cHeIvN" version="15.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T21:13:54.845Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="Lw9NnGMuXekhwdndoWF7" version="15.1.1" type="github">
   <diagram id="r7M4XbXNUUqRg4bWQvlL" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,8 +31,11 @@
         <mxCell id="Ppx2RSebz3chZzkmg-xU-4" value="&quot;Sayi Çifttir&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Ppx2RSebz3chZzkmg-xU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ppx2RSebz3chZzkmg-xU-5" target="Ppx2RSebz3chZzkmg-xU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ppx2RSebz3chZzkmg-xU-5" value="&quot;Sayi Tekdir&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="550" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ppx2RSebz3chZzkmg-xU-6" value="Bitir" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="390" width="120" height="80" as="geometry" />
